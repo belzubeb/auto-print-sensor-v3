@@ -1,0 +1,14 @@
+# ==== Arduino build artifacts ====
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+
+# ==== OS / editor ====
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
